@@ -1,0 +1,15 @@
+body {
+  padding-top: 5px;
+}
+.starter-template {
+  text-align: center;
+}
+.tablecontainer{
+  text-align: left;
+}
+.form-left{
+  text-align: left;
+}
+.form-right{
+  text-align: right;
+}
